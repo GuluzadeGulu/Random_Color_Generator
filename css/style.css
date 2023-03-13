@@ -1,0 +1,20 @@
+body{
+    background: black;
+    color: white;
+    font-size: 90px;
+}
+
+.color{
+    text-align: center;
+    margin-top: 300px;
+}
+
+#random{
+    display: block;
+}
+
+button{
+    cursor: pointer;
+    font-size: 20px;
+    padding: 20px 60px
+}
